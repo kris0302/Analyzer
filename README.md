@@ -1,4 +1,6 @@
 
+First of all, this project is in EIFFEL
+
 In this project, you are asked to complete, under the Eiffel Testing Framework (ETF), the design and
 implementation of: 1) a small expression language; and 2) its three associated functionalities (i.e., pretty
 printing, type checking, and evaluation).
